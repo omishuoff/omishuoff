@@ -1,6 +1,6 @@
 - 👋 Hi, I’m omishu
 - 👀 I’m interested in Telegram API, and im creating some bots on it
-- 📫 How to reach me: in telegram: t.me/omishu
+- 📫 telegram: t.me/omishu
 
 <!---
 omishuoff/omishuoff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
